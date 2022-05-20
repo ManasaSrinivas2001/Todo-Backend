@@ -481,10 +481,10 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://flask-class-based-hitesh.herokuapp.com/api/v1/",
+							"raw": "https://new1-app1.herokuapp.com/api/v1/",
 							"protocol": "https",
 							"host": [
-								"flask-class-based-hitesh",
+								"new1-app1",
 								"herokuapp",
 								"com"
 							],
@@ -547,10 +547,10 @@
 								"method": "GET",
 								"header": [],
 								"url": {
-									"raw": "https://flask-class-based-hitesh.herokuapp.com",
+									"raw": "https://new1-app1.herokuapp.com",
 									"protocol": "https",
 									"host": [
-										"flask-class-based-hitesh",
+										"new1-app1",
 										"herokuapp",
 										"com"
 									]
@@ -609,10 +609,10 @@
 							}
 						},
 						"url": {
-							"raw": "https://flask-class-based-hitesh.herokuapp.com/api/v1/",
+							"raw": "https://new1-app1.herokuapp.com/api/v1/",
 							"protocol": "https",
 							"host": [
-								"flask-class-based-hitesh",
+								"new1-app1",
 								"herokuapp",
 								"com"
 							],
@@ -639,10 +639,10 @@
 									}
 								},
 								"url": {
-									"raw": "https://flask-class-based-hitesh.herokuapp.com/api/v1/",
+									"raw": "https://new1-app1.herokuapp.com/api/v1/",
 									"protocol": "https",
 									"host": [
-										"flask-class-based-hitesh",
+										"new1-app1",
 										"herokuapp",
 										"com"
 									],
@@ -766,10 +766,10 @@
 							}
 						},
 						"url": {
-							"raw": "https://flask-class-based-hitesh.herokuapp.com/api/v1/16",
+							"raw": "https://new1-app1.herokuapp.com/api/v1/16",
 							"protocol": "https",
 							"host": [
-								"flask-class-based-hitesh",
+								"new1-app1",
 								"herokuapp",
 								"com"
 							],
@@ -796,10 +796,10 @@
 									}
 								},
 								"url": {
-									"raw": "https://flask-class-based-hitesh.herokuapp.com/2",
+									"raw": "https://new1-app1.herokuapp.com/2",
 									"protocol": "https",
 									"host": [
-										"flask-class-based-hitesh",
+										"new1-app1",
 										"herokuapp",
 										"com"
 									],
@@ -852,10 +852,10 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://flask-class-based-hitesh.herokuapp.com/api/v1/16",
+							"raw": "https://new1-app1.herokuapp.com/api/v1/16",
 							"protocol": "https",
 							"host": [
-								"flask-class-based-hitesh",
+								"new1-app1",
 								"herokuapp",
 								"com"
 							],
@@ -873,10 +873,10 @@
 								"method": "DELETE",
 								"header": [],
 								"url": {
-									"raw": "https://flask-class-based-hitesh.herokuapp.com/4",
+									"raw": "https://new1-app1.herokuapp.com/4",
 									"protocol": "https",
 									"host": [
-										"flask-class-based-hitesh",
+										"new1-app1",
 										"herokuapp",
 										"com"
 									],
@@ -929,10 +929,10 @@
 						"method": "PATCH",
 						"header": [],
 						"url": {
-							"raw": "https://flask-class-based-hitesh.herokuapp.com/api/v1/1",
+							"raw": "https://new1-app1.herokuapp.com/api/v1/1",
 							"protocol": "https",
 							"host": [
-								"flask-class-based-hitesh",
+								"new1-app1",
 								"herokuapp",
 								"com"
 							],
